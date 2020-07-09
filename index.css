@@ -39,7 +39,17 @@ p {
 }
 
 img {
+    width: 100%;
+}
+
+img:hover {
+    transition: all .2s linear;
+    box-shadow: 2px 8px 45px rgba(0, 0, 0, .15);
+    transform: translate3D(0, -2px, 0);
+}
+
+.content a {
     display: block;
-    margin: auto;
+    margin: 0 auto;
     width: 320px;
 }
