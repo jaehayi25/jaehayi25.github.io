@@ -2,13 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
   <url>
     <loc>https://jaehayi.com/</loc>
-    <lastmod>2020-07-10</lastmod>
-    <priority>0.7</priority>
+    <lastmod>2020-11-14</lastmod>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://jaehayi.com/studio/</loc>
-    <lastmod>2020-07-10</lastmod>
-    <priority>0.8</priority>
+	<loc>https://jaehayi.com/about</loc>
+	<lastmod>2020-11-14</lastmod>
   </url>
   <url>
     <loc>https://jaehayi.com/JumpTo100/</loc>
@@ -21,5 +20,17 @@
   <url>
     <loc>https://jaehayi.com/GameOfLife/</loc>
     <lastmod>2020-07-10</lastmod>
+  </url>
+  <url>
+	<loc>https://jaehayi.com/chatbot/</loc>
+	<lastmod>2020-11-14</lastmod>
+  </url>
+  <url>
+	<loc>https://github.com/jaehayi25/Glass-Detector</loc>
+	<lastmod>2020-11-14</lastmod>
+  </url>
+  <url>
+	<loc>https://jaehayi.com/virus/</loc>
+	<lastmod>2020-11-14</lastmod>
   </url>
 </urlset>
